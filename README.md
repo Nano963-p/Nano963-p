@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" width="100%" alt="Manar El Hynani — a little curiosity, a lot of code." />
+<img src="./assets/banner.svg?v=7" width="100%" alt="Manar's animated banner" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manar-el-hynani-b190763aa/"><img src="https://img.shields.io/badge/LET'S_CONNECT-BF83A7?style=for-the-badge" alt="Connect on LinkedIn" /></a>

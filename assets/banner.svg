@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Manar El Hynani — a little curiosity, a lot of code.</title><desc id="desc">Dark purple banner with soft pink text, pixel stars and a tiny illustrated coding workspace.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#21172F"/><stop offset="1" stop-color="#151020"/></linearGradient><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><rect x="1" y="1" width="2" height="2" fill="#B39BCB" opacity=".1"/></pattern></defs>
+<rect x="1" y="1" width="1198" height="418" rx="20" fill="url(#bg)" stroke="#493450" stroke-width="2"/>
+<rect x="18" y="18" width="1164" height="384" rx="12" fill="url(#dots)"/>
+<g fill="#F2B5CF"><path d="M64 47h6v6h6v6h-6v6h-6v-6h-6v-6h6z"/><path d="M1100 61h5v5h5v5h-5v5h-5v-5h-5v-5h5z"/><path d="M778 139h4v4h4v4h-4v4h-4v-4h-4v-4h4z"/></g>
+<text x="90" y="62" font-family="monospace" font-size="14" letter-spacing="3" fill="#BCA7CF">MANAR'S LITTLE CORNER OF THE INTERNET</text>
+<text x="57" y="149" font-family="monospace" font-size="51" font-weight="bold" fill="#F7EAF3">Hi, I'm Manar<tspan fill="#EEADD0">.</tspan></text>
+<text x="60" y="194" font-family="monospace" font-size="20" fill="#EEADD0">a little curiosity, a lot of code.</text>
+<text x="60" y="247" font-family="monospace" font-size="16" fill="#C2B2D0">Building things for the web.</text>
+<text x="60" y="275" font-family="monospace" font-size="16" fill="#C2B2D0">Finding my way into security &amp; cloud.</text>
+<rect x="60" y="322" width="123" height="34" rx="6" fill="#382440"/><text x="121" y="344" text-anchor="middle" font-family="monospace" font-size="13" fill="#F0B6D0">ENSA student</text>
+<rect x="196" y="322" width="121" height="34" rx="6" fill="#30233E"/><text x="256" y="344" text-anchor="middle" font-family="monospace" font-size="13" fill="#D0BAEE">Web dev</text>
+<rect x="330" y="322" width="102" height="34" rx="6" fill="#30233E"/><text x="381" y="344" text-anchor="middle" font-family="monospace" font-size="13" fill="#D0BAEE">Morocco</text>
+<!-- Pixel illustration: an evening coding desk. -->
+<g shape-rendering="crispEdges">
+<path d="M964 78h40v8h-16v8h-8v24h8v8h16v8h-40v-8h-8V86h8z" fill="#D1B1EC"/>
+<rect x="842" y="146" width="242" height="154" fill="#4B365E"/><rect x="850" y="138" width="226" height="8" fill="#4B365E"/>
+<rect x="850" y="146" width="226" height="138" fill="#100D1A"/><rect x="850" y="146" width="226" height="22" fill="#33243F"/>
+<rect x="860" y="154" width="6" height="6" fill="#F1B2D0"/><rect x="872" y="154" width="6" height="6" fill="#B89BDC"/><rect x="884" y="154" width="6" height="6" fill="#78678F"/>
+<g fill="#D5B2EE"><rect x="870" y="191" width="36" height="6"/><rect x="880" y="207" width="54" height="6"/><rect x="880" y="223" width="30" height="6"/><rect x="870" y="255" width="20" height="6"/></g>
+<g fill="#EFACCA"><rect x="915" y="191" width="40" height="6"/><rect x="942" y="207" width="70" height="6"/><rect x="920" y="223" width="56" height="6"/><rect x="880" y="239" width="62" height="6"/></g>
+<rect x="1018" y="253" width="8" height="12" fill="#F1B2D0"/>
+<rect x="950" y="300" width="24" height="21" fill="#624873"/><rect x="921" y="321" width="82" height="8" fill="#8D6DA3"/>
+<rect x="800" y="337" width="333" height="10" fill="#B68BA8"/><rect x="813" y="347" width="10" height="35" fill="#62445F"/><rect x="1108" y="347" width="10" height="35" fill="#62445F"/>
+<rect x="1097" y="304" width="25" height="25" fill="#E7ACC8"/><path d="M1122 308h10v16h-10v-5h5v-6h-5z" fill="#E7ACC8"/>
+<rect x="1103" y="285" width="4" height="11" fill="#82668F"/><rect x="1113" y="275" width="4" height="15" fill="#82668F"/>
+<rect x="801" y="313" width="28" height="16" fill="#A98BBC"/><rect x="811" y="286" width="6" height="27" fill="#9CA990"/><rect x="799" y="289" width="12" height="8" fill="#9CA990"/><rect x="817" y="279" width="12" height="8" fill="#9CA990"/>
+<rect x="1053" y="90" width="4" height="4" fill="#EFACCA"/><rect x="815" y="93" width="4" height="4" fill="#C7A9E3"/><rect x="1126" y="213" width="4" height="4" fill="#C7A9E3"/>
+</g></svg>
